@@ -2,7 +2,7 @@
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![License](https://img.shields.io/badge/license-Educational-blue)
-![Desec](https://img.shields.io/badge/NPP-Desec%20Security-orange)
+![Desec](https://img.shields.io/badge/NPP-Desec%20Security-yellow)
 ![Status](https://img.shields.io/badge/status-Stable-green)
 
 ---
